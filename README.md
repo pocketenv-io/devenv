@@ -4,9 +4,9 @@ This is a template workspace with devenv. It is a starting point for creating a 
 
 ## ✨ Features
 
-Devenv
-Nix
-Ohmyposh
-Atuin
-Direnv
-Git
+- Devenv
+- Nix
+- Ohmyposh
+- Atuin
+- Direnv
+- Git
