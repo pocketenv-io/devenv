@@ -22,3 +22,4 @@ pocketenv init -t devenv
 - Direnv
 - Git
 - Docker
+- [VSCode Remote Tunnels](https://code.visualstudio.com/docs/remote/tunnels)
