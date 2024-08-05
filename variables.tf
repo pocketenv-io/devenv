@@ -34,5 +34,6 @@ variable "volumes" {
   default = {
     devenv-workspace = "/home/coder"
     devenv-nix = "/nix"
+    devenv-docker-volumes = "/var/lib/docker"
   }
 }
